@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rotich99
-- 👀 I’m interested in Web Application development 
-- 🌱 I’m currently learning Android with Java
-- 💞️ I’m looking to collaborate on contact tracing applications
+- 👀 Web Application development is my motive. 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on contact tracing applications for COVID-19.
 Reach me .
 <!---
 Rotich99/Rotich99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
