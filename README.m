@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rotich99
+- 👋 Hi, I’m @Rotich99-  Rotich Kipkemboi Reuben
 - 👀 Web Application development is my motive. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on contact tracing applications for COVID-19.
